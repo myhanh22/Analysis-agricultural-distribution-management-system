@@ -1,16 +1,13 @@
 # Analysis-agricultural-distribution-management-system
-Business Analysis project for warehouse and distribution management.
+Business Analysis project for e-commerce management.
 
 ## Domain
-
 Supply Chain & Warehouse Management
 
 ## Role
-
 Business Analyst | Personal Project (Collaborated with 1 Developer)
 
 ## Business Problems
-
 * Manual inventory tracking using Excel
 * Paper-based warehouse documents
 * Delayed debt reconciliation and reporting
@@ -18,7 +15,6 @@ Business Analyst | Personal Project (Collaborated with 1 Developer)
 * Communication dependency on Zalo
 
 ## Proposed Solution
-
 Develop a centralized platform supporting:
 
 * Procurement Management
@@ -32,7 +28,6 @@ Develop a centralized platform supporting:
 * Reporting Dashboard
 
 ## Key Deliverables
-
 * Stakeholder Analysis
 * AS-IS Process Analysis
 * TO-BE Process Design
@@ -43,10 +38,7 @@ Develop a centralized platform supporting:
 * Software Requirements Specification (SRS)
 
 ## Tools & Techniques
-
 Draw.io, Figma, MySQL, Microsoft Office, Requirement Gathering, Business Process Modeling, AS-IS / TO-BE Analysis, Use Case Modeling, Wireframing
 
-## Documentation
-
-* Business Analysis Report
-* Project Presentation Deck
+## Project Outcome
+The proposed solution centralized warehouse, procurement, inventory, transportation, and payment management processes, improving operational visibility and reducing manual effort.
