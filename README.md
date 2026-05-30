@@ -1,8 +1,8 @@
 # Analysis-agricultural-distribution-management-system
-Business Analysis project for e-commerce management.
+Business Analysis project for Supply Chain & Warehouse management.
 
 ## Domain
-Supply Chain & Warehouse Management
+E- commerce, supply chain, warehouse
 
 ## Role
 Business Analyst | Personal Project (Collaborated with 1 Developer)
@@ -12,7 +12,7 @@ Business Analyst | Personal Project (Collaborated with 1 Developer)
 * Paper-based warehouse documents
 * Delayed debt reconciliation and reporting
 * Lack of real-time inventory visibility
-* Communication dependency on Zalo
+* Communication dependency on Zalo, Phone Call, SMS,...
 
 ## Proposed Solution
 Develop a centralized platform supporting:
